@@ -1,0 +1,26 @@
+Arguments: 
+  /usr/local/Cellar/node/6.3.0/bin/node /usr/local/bin/yarn add react-native --exact
+
+PATH: 
+  /usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+
+Yarn version: 
+  0.27.5
+
+Node version: 
+  8.2.1
+
+Platform: 
+  darwin x64
+
+npm manifest: 
+  {"name":"ToastMaster","version":"0.0.1","private":true,"scripts":{"start":"node node_modules/react-native/local-cli/cli.js start"}}
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: ENOENT: no such file or directory, open '/Users/leapfrog-laxman/Library/Caches/Yarn/v1/npm-fsevents-1.1.2-3282b713fb3ad80ede0e9fcf4611b5aa6fc033f4/.yarn-metadata.json'
